@@ -52,6 +52,7 @@ Aarsher is a versatile personal assistant designed to simplify your daily tasks 
    git clone https://github.com/your_username/aarsher.git
    cd aarsher
    run the install.bat
+   Extract the aarsher.exe file from the Aarsher.zip
    ```
 
 2. **Usage**: Run the Aarsher script to start the personal assistant.
