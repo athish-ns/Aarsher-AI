@@ -18,6 +18,7 @@ pip install openai
 pip install json
 pip install smtplib
 pip install imapclient
+pyinstaller --onefile --noconsole --icon=fine.ico aarsher.py
 
 echo All required Python modules installed successfully.
 
