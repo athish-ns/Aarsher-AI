@@ -56,12 +56,9 @@ Aarsher is a versatile personal assistant designed to simplify your daily tasks 
    run the install.bat
    ```
 
-2. **Usage**: Run the Aarsher script to start the personal assistant.
+2. **Usage**: After installation, navigate to the `dist` folder created, locate the `aarsher.exe` file, and copy it to your main directory. Alternatively, you can open the command prompt from your folder and run:
 
    ```bash
-   Once installed head over to the dist folder created, locate the aarsher.exe copy that and paste it in your main directory.
-   Or
-   Open command prompt from your folder and run :
    python aarsher.py
    ```
 
