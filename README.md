@@ -73,5 +73,3 @@ Aarsher is a versatile personal assistant designed to simplify your daily tasks 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-This README file provides an overview of Aarsher's capabilities and how to get started with the personal assistant. Feel free to customize it further to suit your project's needs and add any additional information or sections as necessary.
