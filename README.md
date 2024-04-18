@@ -75,3 +75,5 @@ Aarsher is a versatile personal assistant designed to simplify your daily tasks 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+## Password 
+- A@rs#3r_Secur3!
