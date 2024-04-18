@@ -37,7 +37,7 @@ Aarsher is a versatile personal assistant designed to simplify your daily tasks 
 - **Remember That, What Do You Remember**: Store and retrieve notes and reminders.
 
 ### Advanced Commands (Premium Features):
-
+- **Advanced Whatsapp Messaging**
 - **Fire**: An advanced Integrated AI model.
 - **Shutdown System**: Power off or restart the computer.
 - **Therapist**: Engage in therapeutic conversations with a virtual therapist.
