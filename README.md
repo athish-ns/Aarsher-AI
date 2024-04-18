@@ -64,8 +64,9 @@ Aarsher is a versatile personal assistant designed to simplify your daily tasks 
 
 ## Contributors
 
-- John Doe (@johndoe)
-- Jane Smith (@janesmith)
+- Athish NS(@athish-ns)
+- Aaron Lakra (@aaron-lakra)
+- SHERIN R VARGHESE (@sherin-r-varghese)
 
 ## License
 
