@@ -28,21 +28,23 @@ Aarsher is a versatile personal assistant designed to simplify your daily tasks 
 - **Set an Alarm**: Set alarms for important events.
 - **The Time**: Retrieve the current time.
 - **Finally Sleep**: Exit the Aarsher program.
-
-### Advanced Commands (Premium Features):
-
-- **Remember That, What Do You Remember**: Store and retrieve notes and reminders.
-- **Fire**: An advanced Integrated AI model.
-- **Shutdown System**: Power off or restart the computer.
-- **Therapist**: Engage in therapeutic conversations with a virtual therapist.
-- **Monitor**: Detect objects and perform tasks using computer vision.
-- **Direction**: Get directions to a specific location.
-- **Send Email, Read Email, Show Me My Emails**: Manage emails efficiently.
 - **Add Event, Create an Event**: Add and manage events in your calendar.
 - **Track Fitness**: Monitor and track your fitness activities and progress.
 - **Manage Finances**: Keep track of your finances and expenses.
 - **Study Support, Help Me Study**: Get assistance with studying and learning.
 - **Write Journal, Want to Write My Journal**: Create and maintain journal entries easily.
+- **Direction**: Get directions to a specific location.
+- **Remember That, What Do You Remember**: Store and retrieve notes and reminders.
+
+### Advanced Commands (Premium Features):
+
+- **Fire**: An advanced Integrated AI model.
+- **Shutdown System**: Power off or restart the computer.
+- **Therapist**: Engage in therapeutic conversations with a virtual therapist.
+- **Monitor**: Detect objects and perform tasks using computer vision.
+- **Send Email**: Allow's you to send mail using voice commands
+- **Read Email**: Read the email out loud
+- **Show Me My Emails**: Display's all the unopened emails.
 
 ## Getting Started
 
