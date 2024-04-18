@@ -57,7 +57,7 @@ Aarsher is a versatile personal assistant designed to simplify your daily tasks 
 2. **Usage**: Run the Aarsher script to start the personal assistant.
 
    ```bash
-   Then run aarsher.exe
+   Run aarsher.exe
    ```
 
 3. **Enjoy**: Start using Aarsher by speaking voice commands and let it assist you throughout your day!
