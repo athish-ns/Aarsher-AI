@@ -51,13 +51,13 @@ Aarsher is a versatile personal assistant designed to simplify your daily tasks 
    ```bash
    git clone https://github.com/your_username/aarsher.git
    cd aarsher
-   pip install -r requirements.txt
+   run the install.bat
    ```
 
 2. **Usage**: Run the Aarsher script to start the personal assistant.
 
    ```bash
-   python aarsher.py
+   Then run aarsher.exe
    ```
 
 3. **Enjoy**: Start using Aarsher by speaking voice commands and let it assist you throughout your day!
